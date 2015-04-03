@@ -52,4 +52,4 @@ docs/_build/
 
 # PyBuilder
 target/
-.pynb_checkpoints
+.ipynb_checkpoints
